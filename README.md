@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="assets/slide_01.jpg" width="700"/>
 
 ### *Glass-Box Models vs Black-Box Models — Accuracy & Interpretability in Breast Cancer Diagnosis*
 
